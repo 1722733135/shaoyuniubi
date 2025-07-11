@@ -268,7 +268,7 @@
             display: none;
         }
     </style> 
-  <script src="js/jq.js"></script> 
+  <script src="jq.js"></script> 
  </head> 
  <body id="v1"> 
   <!-- 弹窗部分 --> 
